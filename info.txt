@@ -1,3 +1,14 @@
-Funções do sistema:
+Git Flow
 
-alerta > Exibe mensagem ao usuário
+[] master (main) : projeto
+[] hotfix : correções imediatas, falhas críticas : temporária versão 1.0.0-1 Tag
+[] dev (desenvolvimento)
+[] feature (funcionalidades) : temporária
+[] release (lançamento) : temporária versão 1.0.0 Tag
+
+++++++++++++++++++
+master 1.0.0 | 1.0.1 | 1.0.2
+hotfix 1.0.1-1 | hotfix 1.0.1-2 xxx Tag
+dev
+release > feature xxx
+
